@@ -18905,5 +18905,12 @@
     "author": "Deniz Akdemir",
     "description": "Adds support for TIPA phonetic notation.",
     "repo": "akdemirdeniz/obsidian-tipa"
+  },
+    {
+    "id": "7-tv emotes",
+    "name": "7TV Emotes",
+    "author": "Tinerou",
+    "description": "Insert 7TV emotes into Obsidian.",
+    "repo": "Tinerou/7tv-emotes-obsidian-plugin"
   }
 ]
